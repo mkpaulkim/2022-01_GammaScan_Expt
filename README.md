@@ -1,1 +1,1 @@
-# 2022_01_GammaScan_Expt
+# 2022-01_GammaScan_Expt
